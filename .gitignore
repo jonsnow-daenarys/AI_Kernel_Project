@@ -1,0 +1,7 @@
+# Compiled binaries
+ai_kernel
+*.o
+*.so
+
+# Build directories
+build/
